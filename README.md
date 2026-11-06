@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hey, I'm Alan 👋
 
-<!--
-**BibiFinance/BibiFinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer | Data & AI Enthusiast | FinTech
 
-Here are some ideas to get you started:
+I'm a software development student currently pursuing a **Bachelor's degree in Application Development (CDA)** through an apprenticeship in France.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building useful applications, exploring data, and understanding how software architecture works behind the scenes.
+
+My main interests are **Data Engineering, Artificial Intelligence, Backend Development and FinTech**.
+
+---
+
+### 🚀 What I'm working on
+
+- 💻 Building web applications and backend services.
+- 📊 Exploring data analysis, databases and visualization.
+- 🤖 Learning how to integrate AI into real-world applications.
+- 💰 Developing personal projects around finance and financial data.
+- 🏗️ Improving my software architecture and programming skills.
+
+### 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- JavaScript
+- HTML / CSS
+
+**Backend & Database**
+- Node.js
+- Express.js
+- Flask
+- PostgreSQL
+- SQL
+
+**Tools & Other**
+- Git & GitHub
+- Docker
+- Power BI
+- Chart.js
+
+### 🎯 Current Goals
+
+- Become a well-rounded software developer.
+- Build real-world projects from scratch.
+- Develop strong skills in Python, Data and AI.
+- Understand software architecture and engineering best practices.
+
+### 📌 Featured Interests
+
+`Software Engineering` · `Data & Analytics` · `Artificial Intelligence` · `FinTech` · `Automation`
+
+---
+
+### 📫 Let's connect
+
+- GitHub: [@BibiFinance](https://github.com/BibiFinance)
+
+---
+
+*"Build, learn, improve, repeat."* 🚀
