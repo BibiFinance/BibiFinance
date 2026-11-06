@@ -10,7 +10,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="./assets/picsou-bill.svg" width="260" alt="Billet Picsou animé">
+</p>
 ### 🚀 Currently
 - 💻 Building web apps & backend services
 - 📊 Exploring data, databases & visualization
