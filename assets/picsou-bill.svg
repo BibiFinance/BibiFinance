@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="130" viewBox="0 0 260 130">
+  <style>
+    text { font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold; white-space: pre; }
+    .bill { fill: #2e9e4f; animation: float 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .gold { fill: #F5C518; }
+    .coin { fill: #F5C518; opacity: 0; animation: fall 3s linear infinite; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0) rotate(-3deg); }
+      50%      { transform: translateY(-10px) rotate(3deg); }
+    }
+    @keyframes fall {
+      0%   { transform: translateY(0);    opacity: 0; }
+      20%  { opacity: 1; }
+      100% { transform: translateY(90px); opacity: 0; }
+    }
+  </style>
+
+  <g class="bill">
+    <text x="50" y="40"  xml:space="preserve">.-----------------.</text>
+    <text x="50" y="58"  xml:space="preserve">| $    PICSOU   $ |</text>
+    <text x="50" y="76"  xml:space="preserve">|    ( $ 100 )    |</text>
+    <text x="50" y="94"  xml:space="preserve">| $   $$$$$$    $ |</text>
+    <text x="50" y="112" xml:space="preserve">'-----------------'</text>
+  </g>
+
+  <text class="coin" x="15"  y="10" style="animation-delay:0s">$</text>
+  <text class="coin" x="35"  y="10" style="animation-delay:1.2s">$</text>
+  <text class="coin" x="225" y="10" style="animation-delay:0.6s">$</text>
+  <text class="coin" x="245" y="10" style="animation-delay:1.8s">$</text>
+</svg>
